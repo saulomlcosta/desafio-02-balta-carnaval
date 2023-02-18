@@ -1,0 +1,15 @@
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\bin\Debug\net7.0\ChallengeTwo.exe
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\bin\Debug\net7.0\ChallengeTwo.deps.json
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\bin\Debug\net7.0\ChallengeTwo.runtimeconfig.json
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\bin\Debug\net7.0\ChallengeTwo.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\bin\Debug\net7.0\ChallengeTwo.pdb
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.csproj.AssemblyReference.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.AssemblyInfoInputs.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.AssemblyInfo.cs
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.csproj.CoreCompileInputs.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\refint\ChallengeTwo.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.pdb
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ChallengeTwo.genruntimeconfig.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeTwo\obj\Debug\net7.0\ref\ChallengeTwo.dll
