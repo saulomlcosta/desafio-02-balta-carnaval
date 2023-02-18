@@ -1,16 +1,30 @@
 ﻿using static System.Console;
 
-WriteLine("Informe sua altura: ");
-decimal.TryParse(ReadLine(), out decimal altura);
-WriteLine("Informe seu peso: ");
-decimal.TryParse(ReadLine(), out decimal peso);
+CalculadoraImc();
 
-var calculoImc = CalculaImc(altura, peso);
+void CalculadoraImc()
+{
+    WriteLine("Informe sua altura: ex: 1.80");
+    var alturaValida = decimal.TryParse(ReadLine(), out decimal altura);
+    WriteLine("Informe seu peso: ex: 90");
+    var pesoValido = decimal.TryParse(ReadLine(), out decimal peso);
 
-WriteLine($"> Seu IMC é: {calculoImc}");
-StatusPeso(calculoImc, peso);
+    if (alturaValida && pesoValido)
+    {
+        var calculoImc = CalculaImc(altura, peso);
+        WriteLine($"> Seu IMC é: {calculoImc}");
+        StatusPeso(calculoImc, peso);
+    }
+    else
+    {
+        WriteLine("Confira se os dados estão corretos!");
+        Thread.Sleep(1000);
+        Clear();
+        CalculadoraImc();
+    }
 
-ReadKey();
+    ReadKey();
+}
 
 decimal CalculaImc(decimal altura, decimal peso)
     => Math.Round(peso / (altura * altura), 1);
